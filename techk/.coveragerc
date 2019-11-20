@@ -1,0 +1,19 @@
+[run]
+source = ./
+branch = True
+omit =
+    ./*/tests/*
+    ./*/migrations/*
+    ./*/wsgi.py
+    ./manage.py
+    ./.tox/*
+    ./htmlcov/*
+    ./setup.py
+    ./gunicorn_config.py
+
+[coverage:report]
+exclude_lines =
+    pragma: no cover
+    if __name__ == .__main__.
+show_missing = True
+fail_under = 90

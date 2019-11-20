@@ -9,3 +9,7 @@ node_modules
 __pycache__
 .env
 .pytest_cache
+techk.egg-info/
+htmlcov/
+.tox/
+.coverage
