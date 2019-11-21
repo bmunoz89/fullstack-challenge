@@ -1,26 +1,170 @@
-[{
-	"categories": [
-		{
-			"id": 1,
-			"name": "Travel"
-		}, {
-			"id": 2,
-			"name": "Mystery"
-		}, {
-			"id": 3,
-			"name": "Historical Fiction"
-		}
-	],
-	"books": [
-		{
-			"id": 1,
-			"category_id": 1,
-			"title": "It's Only the Himalayas",
-			"thumbnail_url": "http://books.toscrape.com/media/cache/6d/41/6d418a73cc7d4ecfd75ca11d854041db.jpg",
-			"price": "£45.17",
-			"stock": true,
-			"product_description": "Wherever you go, whatever you do, just ...",
-			"upc": "a22124811bfa8350"
-		},
-	],
-}]
+[
+  {
+    "categories": [
+      {
+        "id": 1,
+        "name": "Travel"
+      },
+      {
+        "id": 2,
+        "name": "Mystery"
+      },
+      {
+        "id": 3,
+        "name": "Historical Fiction"
+      }
+    ],
+    "books": [
+      {
+        "id": 981,
+        "category_id": 1,
+        "title": "It's Only the Himalayas",
+        "thumbnail_url": "http://books.toscrape.com/media/cache/6d/41/6d418a73cc7d4ecfd75ca11d854041db.jpg",
+        "price": "£45.17",
+        "stock": true,
+        "product_description": "“Wherever you go, whatever you do, just . . . don’t do anything stupid.” —My MotherDuring her yearlong adventure backpacking from South Africa to Singapore, S. Bedford definitely did a few things her mother might classify as \"stupid.\" She swam with great white sharks in South Africa, ran from lions in Zimbabwe, climbed a Himalayan mountain without training in Nepal, and wa “Wherever you go, whatever you do, just . . . don’t do anything stupid.” —My MotherDuring her yearlong adventure backpacking from South Africa to Singapore, S. Bedford definitely did a few things her mother might classify as \"stupid.\" She swam with great white sharks in South Africa, ran from lions in Zimbabwe, climbed a Himalayan mountain without training in Nepal, and watched as her friend was attacked by a monkey in Indonesia.But interspersed in those slightly more crazy moments, Sue Bedfored and her friend \"Sara the Stoic\" experienced the sights, sounds, life, and culture of fifteen countries. Joined along the way by a few friends and their aging fathers here and there, Sue and Sara experience the trip of a lifetime. They fall in love with the world, cultivate an appreciation for home, and discover who, or what, they want to become.It's Only the Himalayas is the incredibly funny, sometimes outlandish, always entertaining confession of a young backpacker that will inspire you to take your own adventure.",
+        "upc": "a22124811bfa8350"
+      },
+      {
+        "id": 1,
+        "category_id": 1,
+        "title": "1,000 Places to See Before You Die",
+        "thumbnail_url": "http://books.toscrape.com/media/cache/9e/10/9e106f81f65b293e488718a4f54a6a3f.jpg",
+        "price": "£26.08",
+        "stock": true,
+        "product_description": "Around the World, continent by continent, here is the best the world has to offer: 1,000 places guaranteed to give travelers the shivers. Sacred ruins, grand hotels, wildlife preserves, hilltop villages, snack shacks, castles, festivals, reefs, restaurants, cathedrals, hidden islands, opera houses, museums, and more. Each entry tells exactly why it's essential to visit. Th Around the World, continent by continent, here is the best the world has to offer: 1,000 places guaranteed to give travelers the shivers. Sacred ruins, grand hotels, wildlife preserves, hilltop villages, snack shacks, castles, festivals, reefs, restaurants, cathedrals, hidden islands, opera houses, museums, and more. Each entry tells exactly why it's essential to visit. Then come the nuts and bolts: addresses, websites, phone and fax numbers, best times to visit. Stop dreaming and get going.This hefty volume reminds vacationers that hot tourist spots are small percentage of what's worth seeing out there. A quick sampling: Venice's Cipriani Hotel; California's Monterey Peninsula; the Lewis and Clark Trail in Oregon; the Great Wall of China; Robert Louis Stevenson's home in Western Samoa; and the Alhambra in Andalusia, Spain. Veteran travel guide writer Schultz divides the book geographically, presenting a little less than a page on each location. Each entry lists exactly where to find the spot (e.g. Moorea is located \"12 miles/19 km northwest of Tahiti; 10 minutes by air, 1 hour by boat\") and when to go (e.g., if you want to check out The Complete Fly Fisher hotel in Montana, \"May and Sept.-Oct. offer productive angling in a solitary setting\"). This is an excellent resource for the intrepid traveler.Copyright 2003 Reed Business Information, Inc.",
+        "upc": "228ba5e7577e1d49"
+      },
+      {
+        "id": 458,
+        "category_id": 1,
+        "title": "A Summer In Europe",
+        "thumbnail_url": "http://books.toscrape.com/media/cache/6c/e3/6ce3003931701c7a3fd5354917538ea9.jpg",
+        "price": "£44.34",
+        "stock": true,
+        "product_description": "On her thirtieth birthday, Gwendolyn Reese receives an unexpected present from her widowed Aunt Bea: a grand tour of Europe in the company of Bea's Sudoku and Mahjongg Club. The prospect isn't entirely appealing. But when the gift she is expecting--an engagement ring from her boyfriend--doesn't materialize, Gwen decides to go. At first, Gwen approaches the trip as if it's On her thirtieth birthday, Gwendolyn Reese receives an unexpected present from her widowed Aunt Bea: a grand tour of Europe in the company of Bea's Sudoku and Mahjongg Club. The prospect isn't entirely appealing. But when the gift she is expecting--an engagement ring from her boyfriend--doesn't materialize, Gwen decides to go. At first, Gwen approaches the trip as if it's the math homework she assigns her students, diligently checking monuments off her must-see list. But amid the bougainvillea and stunning vistas of southern Italy, something changes. Gwen begins to live in the moment--skipping down stone staircases in Capri, running her fingers over a glacier in view of the Matterhorn, racing through the Louvre, and taste-testing pastries at a Marseilles cafe. Reveling in every new experience--especially her attraction to a charismatic British physics professor--Gwen discovers that the ancient wonders around her are nothing compared to the renaissance unfolding within. . . \"A thinking woman's love story, it swept me away to breathtaking places with a cast of endearing characters I won't soon forget. Bravissima!\" Susan McBride, author of \"Little Black Dress\" Praise for Marilyn Brant's According to Jane \"A warm, witty and charmingly original story.\" --Susan Wiggs, \"New York Times \" bestselling author \"Brant infuses her sweetly romantic and delightfully clever tale with just the right dash of Austen-esque wit.\" \"Chicago Tribune\" \"An engaging read for all who have been through the long, dark, dating wars, and still believe there's sunshine, and a Mr. Darcy, at the end of the tunnel.\" --Cathy Lamb, author of \"Such a Pretty Face\"\"",
+        "upc": "cc1936a9f4e93477"
+      },
+      {
+        "id": 421,
+        "category_id": 1,
+        "title": "A Year in Provence (Provence #1)",
+        "thumbnail_url": "http://books.toscrape.com/media/cache/8b/81/8b81cd9b2c8f89a12099a80bed1c4911.jpg",
+        "price": "£56.88",
+        "stock": true,
+        "product_description": "National BestsellerIn this witty and warm-hearted account, Peter Mayle tells what it is like to realize a long-cherished dream and actually move into a 200-year-old stone farmhouse in the remote country of the Lubéron with his wife and two large dogs. He endures January's frosty mistral as it comes howling down the Rhône Valley, discovers the secrets of goat racing through National Bestseller In this witty and warm-hearted account, Peter Mayle tells what it is like to realize a long-cherished dream and actually move into a 200-year-old stone farmhouse in the remote country of the Lubéron with his wife and two large dogs. He endures January's frosty mistral as it comes howling down the Rhône Valley, discovers the secrets of goat racing through the middle of town, and delights in the glorious regional cuisine. A Year in Provence transports us into all the earthy pleasures of Provençal life and lets us live vicariously at a tempo governed by seasons, not by days.",
+        "upc": "9e60929f521fa280"
+      },
+      {
+        "id": 811,
+        "category_id": 1,
+        "title": "Full Moon over Noah’s Ark: An Odyssey to Mount Ararat and Beyond",
+        "thumbnail_url": "http://books.toscrape.com/media/cache/fe/8a/fe8af6ceec7718986380c0fde9b3b34f.jpg",
+        "price": "£49.43",
+        "stock": true,
+        "product_description": "Acclaimed travel writer Rick Antonson sets his adventurous compass on Mount Ararat, exploring the region’s long history, religious mysteries, and complex politics.Mount Ararat is the most fabled mountain in the world. For millennia this massif in eastern Turkey has been rumored as the resting place of Noah’s Ark following the Great Flood. But it also plays a significant ro Acclaimed travel writer Rick Antonson sets his adventurous compass on Mount Ararat, exploring the region’s long history, religious mysteries, and complex politics.Mount Ararat is the most fabled mountain in the world. For millennia this massif in eastern Turkey has been rumored as the resting place of Noah’s Ark following the Great Flood. But it also plays a significant role in the longstanding conflict between Turkey and Armenia.Author Rick Antonson joined a five-member expedition to the mountain’s nearly 17,000-foot summit, trekking alongside a contingent of Armenians, for whom Mount Ararat is the stolen symbol of their country. Antonson weaves vivid historical anecdote with unexpected travel vignettes, whether tracing earlier mountaineering attempts on the peak, recounting the genocide of Armenians and its unresolved debate, or depicting the Kurds’ ambitions for their own nation’s borders, which some say should include Mount Ararat.What unfolds in Full Moon Over Noah’s Ark is one man’s odyssey, a tale told through many stories. Starting with the flooding of the Black Sea in 5600 BCE, through to the Epic of Gilgamesh and the contrasting narratives of the Great Flood known to followers of the Judaic, Christian and Islamic religions, Full Moon Over Noah’s Ark takes readers along with Antonson through the shadows and broad landscapes of Turkey, Iraq, Iran and Armenia, shedding light on a troubled but fascinating area of the world.",
+        "upc": "ce60436f52c5ee68"
+      },
+      {
+        "id": 997,
+        "category_id": 2,
+        "title": "Sharp Objects",
+        "thumbnail_url": "http://books.toscrape.com/media/cache/c0/59/c05972805aa7201171b8fc71a5b00292.jpg",
+        "price": "£47.82",
+        "stock": true,
+        "product_description": "WICKED above her hipbone, GIRL across her heart Words are like a road map to reporter Camille Preaker’s troubled past. Fresh from a brief stay at a psych hospital, Camille’s first assignment from the second-rate daily paper where she works brings her reluctantly back to her hometown to cover the murders of two preteen girls. NASTY on her kneecap, BABYDOLL on her leg Since WICKED above her hipbone, GIRL across her heart Words are like a road map to reporter Camille Preaker’s troubled past. Fresh from a brief stay at a psych hospital, Camille’s first assignment from the second-rate daily paper where she works brings her reluctantly back to her hometown to cover the murders of two preteen girls. NASTY on her kneecap, BABYDOLL on her leg Since she left town eight years ago, Camille has hardly spoken to her neurotic, hypochondriac mother or to the half-sister she barely knows: a beautiful thirteen-year-old with an eerie grip on the town. Now, installed again in her family’s Victorian mansion, Camille is haunted by the childhood tragedy she has spent her whole life trying to cut from her memory. HARMFUL on her wrist, WHORE on her ankle As Camille works to uncover the truth about these violent crimes, she finds herself identifying with the young victims—a bit too strongly. Clues keep leading to dead ends, forcing Camille to unravel the psychological puzzle of her own past to get at the story. Dogged by her own demons, Camille will have to confront what happened to her years before if she wants to survive this homecoming.With its taut, crafted writing, Sharp Objects is addictive, haunting, and unforgettable.",
+        "upc": "e00eb4fd7b871a48"
+      },
+      {
+        "id": 2,
+        "category_id": 2,
+        "title": "1st to Die (Women's Murder Club #1)",
+        "thumbnail_url": "http://books.toscrape.com/media/cache/f6/8e/f68e6ae2f9da04fccbde8442b0a1b52a.jpg",
+        "price": "£53.98",
+        "stock": true,
+        "product_description": "James Patterson, bestselling author of the Alex Cross novels Along Came a Spider, Kiss the Girls, and Pop Goes the Weasel, offers the first of a new series dubbed The Women's Murder Club, featuring a four-woman team that occasionally works outside the system. None of the gritty darkness or frenzied action is lost in 1st to Die, although the female protagonists offer an eve James Patterson, bestselling author of the Alex Cross novels Along Came a Spider, Kiss the Girls, and Pop Goes the Weasel, offers the first of a new series dubbed The Women's Murder Club, featuring a four-woman team that occasionally works outside the system. None of the gritty darkness or frenzied action is lost in 1st to Die, although the female protagonists offer an even deeper emotional context to this suspense thriller.Inspector Lindsay Boxer of the San Francisco Police Department suddenly finds herself in the middle of two horrifying situations: The first is that she's just learned she has an often-fatal blood disease. The second is a double homicide case she is now heading up that involves the murder of newlyweds on their wedding night. Burdened with Chris Raleigh, a new partner reassigned from the mayor's office, Lindsay finds that she has too much to deal with and turns to her best friend, Claire, the head ME on the case. Claire offers helpful advice and human, friendly contact amid a job filled with violence, cruelty, and fear.Soon a fledgling newspaper reporter, Cindy, makes contact with Lindsay looking for a career-making story. Although Lindsay can't officially comment on the case, the two women form a rapport, and Cindy joins Lindsay and Claire for their weekly meeting. When a second pair of newlyweds is murdered, and later a third, the investigation leads to a prominent crime writer, Nicholas Jenks, who has a history of spousal abuse and a predilection for kinky, dangerous sex games. With the help of an understanding assistant D.A., Jill Bernhardt, Lindsay tries to make a case against Jenks, who even had an affair with one of the slain women. Eventually Jill joins the Murder Club, and the four ladies share private interdepartmental information in an effort to track and stop the killer before he strikes again.The major subplot -- Lindsay's facing up to her illness even while she learns to fall in love again -- carefully compensates for the novel's coarse scenes of brutality. Lindsay Boxer is't merely an obsessed cop trailing a maniac; she's also a terrified woman confronting the onslaught of disease. The story lines balance out to show us the true mettle of someone who puts the safety of others before her own.Again, Patterson's skill for producing furiously paced fiction are evident as the novel breezes by rapidly. The short chapters keep the narrative leaping with increasingly taut plot elements, but there's an emotional commitment that makes our protagonist even more amiable and involving. 1st to Die is a novel that works as an intense series of character portraits that will leave the reader touched and delighted.--Tom Piccirilli",
+        "upc": "f684a82adc49f011"
+      },
+      {
+        "id": 877,
+        "category_id": 2,
+        "title": "A Murder in Time",
+        "thumbnail_url": "http://books.toscrape.com/media/cache/cc/bd/ccbd7a62caefd5a3a2e04dd7c2ff48fe.jpg",
+        "price": "£16.64",
+        "stock": true,
+        "product_description": "Beautiful and brilliant, Kendra Donovan is a rising star at the FBI. Yet her path to professional success hits a speed bump during a disastrous raid where half her team is murdered, a mole in the FBI is uncovered and she herself is severely wounded. As soon as she recovers, she goes rogue and travels to England to assassinate the man responsible for the deaths of her teamm Beautiful and brilliant, Kendra Donovan is a rising star at the FBI. Yet her path to professional success hits a speed bump during a disastrous raid where half her team is murdered, a mole in the FBI is uncovered and she herself is severely wounded. As soon as she recovers, she goes rogue and travels to England to assassinate the man responsible for the deaths of her teammates.While fleeing from an unexpected assassin herself, Kendra escapes into a stairwell that promises sanctuary but when she stumbles out again, she is in the same place - Aldrich Castle - but in a different time: 1815, to be exact.Mistaken for a lady's maid hired to help with weekend guests, Kendra is forced to quickly adapt to the time period until she can figure out how she got there; and, more importantly, how to get back home. However, after the body of a young girl is found on the extensive grounds of the county estate, she starts to feel there's some purpose to her bizarre circumstances. Stripped of her twenty-first century tools, Kendra must use her wits alone in order to unmask a cunning madman.",
+        "upc": "f733e8c19d40ec2e"
+      },
+      {
+        "id": 656,
+        "category_id": 2,
+        "title": "A Study in Scarlet (Sherlock Holmes #1)",
+        "thumbnail_url": "http://books.toscrape.com/media/cache/27/40/274003f2720f82844873945b87af6c19.jpg",
+        "price": "£16.73",
+        "stock": true,
+        "product_description": "In the debut of literature's most famous sleuth, a dead man is discovered in a bloodstained room in Brixton. The only clues are a wedding ring, a gold watch, a pocket edition of Boccaccio's Decameron, and a word scrawled in blood on the wall. With this investigation begins the partnership of Sherlock Holmes and Dr. Watson. Their search for the murderer uncovers a story of In the debut of literature's most famous sleuth, a dead man is discovered in a bloodstained room in Brixton. The only clues are a wedding ring, a gold watch, a pocket edition of Boccaccio's Decameron, and a word scrawled in blood on the wall. With this investigation begins the partnership of Sherlock Holmes and Dr. Watson. Their search for the murderer uncovers a story of love and revenge-and heralds a franchise of detective mysteries starring the formidable Holmes.",
+        "upc": "63ee5bc46066a8a8"
+      },
+      {
+        "id": 657,
+        "category_id": 2,
+        "title": "A Time of Torment (Charlie Parker #14)",
+        "thumbnail_url": "http://books.toscrape.com/media/cache/f1/37/f137a410ed7d6fcfce17d081caf97915.jpg",
+        "price": "£48.35",
+        "stock": true,
+        "product_description": "Jerome Burnel was once a hero. He intervened to prevent multiple killings and in doing so damned himself. His life was torn apart. He was imprisoned, brutalized.But in his final days, with the hunters circling, he tells his story to private detective Charlie Parker. He speaks of the girl who was marked for death but was saved, of the ones who tormented him, and an entity t Jerome Burnel was once a hero. He intervened to prevent multiple killings and in doing so damned himself. His life was torn apart. He was imprisoned, brutalized.But in his final days, with the hunters circling, he tells his story to private detective Charlie Parker. He speaks of the girl who was marked for death but was saved, of the ones who tormented him, and an entity that hides in a ruined stockade.Parker is not like other men. He died, and was reborn. He is ready to wage war.Now he will descend upon a strange, isolated community called the Cut, and face down a force of men who rule by terror, intimidation, and murder.All in the name of the being they serve.All in the name of the Dead King.",
+        "upc": "4416c474713ec1f5"
+      },
+      {
+        "id": 999,
+        "category_id": 3,
+        "title": "Tipping the Velvet",
+        "thumbnail_url": "http://books.toscrape.com/media/cache/08/e9/08e94f3731d7d6b760dfbfbc02ca5c62.jpg",
+        "price": "£53.74",
+        "stock": true,
+        "product_description": "\"Erotic and absorbing...Written with starling power.\"--\"The New York Times Book Review \" Nan King, an oyster girl, is captivated by the music hall phenomenon Kitty Butler, a male impersonator extraordinaire treading the boards in Canterbury. Through a friend at the box office, Nan manages to visit all her shows and finally meet her heroine. Soon after, she becomes Kitty's \"Erotic and absorbing...Written with starling power.\"--\"The New York Times Book Review \" Nan King, an oyster girl, is captivated by the music hall phenomenon Kitty Butler, a male impersonator extraordinaire treading the boards in Canterbury. Through a friend at the box office, Nan manages to visit all her shows and finally meet her heroine. Soon after, she becomes Kitty's dresser and the two head for the bright lights of Leicester Square where they begin a glittering career as music-hall stars in an all-singing and dancing double act. At the same time, behind closed doors, they admit their attraction to each other and their affair begins.",
+        "upc": "90fa61229261140a"
+      },
+      {
+        "id": 876,
+        "category_id": 3,
+        "title": "A Flight of Arrows (The Pathfinders #2)",
+        "thumbnail_url": "http://books.toscrape.com/media/cache/ec/65/ec651ed66822d4b68938afa645b1ece2.jpg",
+        "price": "£55.53",
+        "stock": true,
+        "product_description": "October 1776--August 1777It is said that what a man sows he will reap--and for such a harvest there is no set season. No one connected to Reginald Aubrey is untouched by the crime he committed twenty years ago. Not William, the Oneida child Reginald stole and raised as his own. Identity shattered, enlisted in the British army, William trains with Loyalist refugees eager to October 1776--August 1777It is said that what a man sows he will reap--and for such a harvest there is no set season. No one connected to Reginald Aubrey is untouched by the crime he committed twenty years ago. Not William, the Oneida child Reginald stole and raised as his own. Identity shattered, enlisted in the British army, William trains with Loyalist refugees eager to annihilate the rebels who forced them into exile. Coming to terms with who and what he is proves impossible, but if he breaks his Loyalist oath, he'll be no better than the man who constructed his life of lies.Not Anna, Reginald's adopted daughter, nor Two Hawks, William's twin, both who long for Reginald to accept their love despite the challenges they will face, building a marriage that bridges two cultures. Not Good Voice and Stone Thrower, freed of bitterness by a courageous act of forgiveness, but still yearning for their firstborn son and fearful for the future of their Oneida people.As the British prepare to attack frontier New York and Patriot regiments rally to defend it, two families separated by culture, united by love, will do all in their power to reclaim the son marching toward them in the ranks of their enemies.",
+        "upc": "3a6fb983e2554023"
+      },
+      {
+        "id": 612,
+        "category_id": 3,
+        "title": "A Paris Apartment",
+        "thumbnail_url": "http://books.toscrape.com/media/cache/b3/d9/b3d90aca157d5a250becc8b255a37251.jpg",
+        "price": "£39.01",
+        "stock": true,
+        "product_description": "Bienvenue à Paris!When April Vogt's boss tells her about an apartment in the ninth arrondissement that has been discovered after being shuttered for the past seventy years, the Sotheby's continental furniture specialist does not hear the words “dust” or “rats” or “decrepit.” She hears Paris. She hears escape.Once in France, April quickly learns the apartment is not merely Bienvenue à Paris!When April Vogt's boss tells her about an apartment in the ninth arrondissement that has been discovered after being shuttered for the past seventy years, the Sotheby's continental furniture specialist does not hear the words “dust” or “rats” or “decrepit.” She hears Paris. She hears escape.Once in France, April quickly learns the apartment is not merely some rich hoarder's repository. Beneath the cobwebs and stale perfumed air is a goldmine, and not because of the actual gold (or painted ostrich eggs or mounted rhinoceros horns or bronze bathtub). First, there's a portrait by one of the masters of the Belle Epoque, Giovanni Boldini. And then there are letters and journals written by the very woman in the painting, Marthe de Florian. These documents reveal that she was more than a renowned courtesan with enviable decolletage. Suddenly April's quest is no longer about the bureaux plats and Louis-style armchairs that will fetch millions at auction. It's about discovering the story behind this charismatic woman.It's about discovering two women, actually.With the help of a salty (and annoyingly sexy) Parisian solicitor and the courtesan's private diaries, April tries to uncover the many secrets buried in the apartment. As she digs into Marthe's life, April can't help but take a deeper look into her own. Having left behind in the States a cheating husband, a family crisis about to erupt, and a career she's been using as the crutch to simply get by, she feels compelled to sort out her own life too. When the things she left bubbling back home begin to boil over, and Parisian delicacies beyond flaky pâtisseries tempt her better judgment, April knows that both she and Marthe deserve happy finales.Whether accompanied by croissants or champagne, this delectable debut novel depicts the Paris of the Belle Epoque and the present day with vibrant and stunning allure. Based on historical events, Michelle Gable's A Paris Apartment will entertain and inspire, as readers embrace the struggles and successes of two very unforgettable women.",
+        "upc": "63343e287971bb0c"
+      },
+      {
+        "id": 3,
+        "category_id": 3,
+        "title": "A Spy's Devotion (The Regency Spies of London #1)",
+        "thumbnail_url": "http://books.toscrape.com/media/cache/f9/6b/f96b60a7614c4e3e868b82f6811efc7c.jpg",
+        "price": "£16.97",
+        "stock": true,
+        "product_description": "In England’s Regency era, manners and elegance reign in public life—but behind closed doors treason and tawdriness thrive. Nicholas Langdon is no stranger to reserved civility or bloody barbarity. After suffering a battlefield injury, the wealthy, well-connected British officer returns home to heal—and to fulfill a dying soldier’s last wish by delivering his coded diary.At In England’s Regency era, manners and elegance reign in public life—but behind closed doors treason and tawdriness thrive. Nicholas Langdon is no stranger to reserved civility or bloody barbarity. After suffering a battlefield injury, the wealthy, well-connected British officer returns home to heal—and to fulfill a dying soldier’s last wish by delivering his coded diary.At the home of the Wilherns, one of England’s most powerful families, Langdon attends a lavish ball where he meets their beautiful and intelligent ward, Julia Grey. Determined to maintain propriety, he keeps his distance—until the diary is stolen and all clues lead to Julia’s guardian. As Langdon traces an evil plot that could be the nation’s undoing, he grows ever more intrigued by the lovely young woman. And when Julia realizes that England—and the man she is falling in love with—need her help, she finds herself caught in the fray. Will the two succumb to their attraction while fighting to save their country?",
+        "upc": "19fec36a1dfb4c16"
+      },
+      {
+        "id": 128,
+        "category_id": 3,
+        "title": "Between Shades of Gray",
+        "thumbnail_url": "http://books.toscrape.com/media/cache/df/45/df45004c7a4c3940946ad09f85805565.jpg",
+        "price": "£20.79",
+        "stock": true,
+        "product_description": "Lina is just like any other fifteen-year-old Lithuanian girl in 1941. She paints, she draws, she gets crushes on boys. Until one night when Soviet officers barge into her home, tearing her family from the comfortable life they've known. Separated from her father, forced onto a crowded and dirty train car, Lina, her mother, and her young brother slowly make their way north, Lina is just like any other fifteen-year-old Lithuanian girl in 1941. She paints, she draws, she gets crushes on boys. Until one night when Soviet officers barge into her home, tearing her family from the comfortable life they've known. Separated from her father, forced onto a crowded and dirty train car, Lina, her mother, and her young brother slowly make their way north, crossing the Arctic Circle, to a work camp in the coldest reaches of Siberia. Here they are forced, under Stalin's orders, to dig for beets and fight for their lives under the cruelest of conditions. Lina finds solace in her art, meticulously--and at great risk--documenting events by drawing, hoping these messages will make their way to her father's prison camp to let him know they are still alive. It is a long and harrowing journey, spanning years and covering 6,500 miles, but it is through incredible strength, love, and hope that Lina ultimately survives. Between Shades of Gray is a novel that will steal your breath and capture your heart.",
+        "upc": "155e42df837ee5ff"
+      }
+    ]
+  }
+]
