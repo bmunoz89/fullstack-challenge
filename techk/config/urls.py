@@ -13,12 +13,18 @@ Including another URLconf
     1. Import the include() function: from django.conf.urls import url, include
     2. Add a URL to urlpatterns:  url(r'^blog/', include('blog.urls'))
 """
+from django.urls import path
 from rest_framework import routers
 
 from apps.base.views import BookView, CategoryView
+from apps.scraper.views import ScraperView
 
 router = routers.DefaultRouter()
 router.register(r'book', BookView, 'book')
 router.register(r'category', CategoryView, 'category')
 
-urlpatterns = router.urls
+urlpatterns = [
+    path('scraper/', ScraperView.as_view(), name='scraper'),
+]
+
+urlpatterns += router.urls
