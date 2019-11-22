@@ -1,60 +1,43 @@
 <template>
   <v-app>
-    <v-app-bar
-      app
-      color="primary"
-      dark
-    >
-      <div class="d-flex align-center">
-        <v-img
-          alt="Vuetify Logo"
-          class="shrink mr-2"
-          contain
-          src="https://cdn.vuetifyjs.com/images/logos/vuetify-logo-dark.png"
-          transition="scale-transition"
-          width="40"
-        />
-
-        <v-img
-          alt="Vuetify Name"
-          class="shrink mt-1 hidden-sm-and-down"
-          contain
-          min-width="100"
-          src="https://cdn.vuetifyjs.com/images/logos/vuetify-name-dark.png"
-          width="100"
-        />
-      </div>
-
+    <v-app-bar app color="primary" dark>
+      <h2>Techk: Fullstack challenge</h2>
       <v-spacer></v-spacer>
-
-      <v-btn
-        href="https://github.com/vuetifyjs/vuetify/releases/latest"
-        target="_blank"
-        text
-      >
-        <span class="mr-2">Latest Release</span>
-        <v-icon>mdi-open-in-new</v-icon>
-      </v-btn>
     </v-app-bar>
 
     <v-content>
-      <HelloWorld/>
+      <v-layout text-center wrap>
+        <v-row class="col-12" justify="center" no-gutters>
+          <v-col class="col-2">
+            <div class="display-1">Filters</div>
+            <Filters />
+          </v-col>
+          <v-col class="col-8">
+            <div class="display-1">Books</div>
+            <ScrapeBooksButton />
+            <Books />
+          </v-col>
+        </v-row>
+      </v-layout>
     </v-content>
+    <v-footer color="primary" dark>
+      <v-spacer></v-spacer>
+      <div>&copy; {{ new Date().getFullYear() }}</div>
+    </v-footer>
   </v-app>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld';
+import Filters from "./components/Filters";
+import ScrapeBooksButton from "./components/ScrapeBooksButton";
+import Books from "./components/Books";
 
 export default {
-  name: 'App',
-
+  name: "App",
   components: {
-    HelloWorld,
-  },
-
-  data: () => ({
-    //
-  }),
+    Filters,
+    ScrapeBooksButton,
+    Books
+  }
 };
 </script>
