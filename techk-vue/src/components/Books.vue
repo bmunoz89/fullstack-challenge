@@ -56,6 +56,12 @@ export default {
           value: "stock"
         },
         {
+          text: "UPC",
+          align: "left",
+          sortable: false,
+          value: "upc"
+        },
+        {
           text: "Actions",
           value: "action",
           sortable: false
