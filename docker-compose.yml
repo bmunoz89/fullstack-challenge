@@ -1,0 +1,30 @@
+version: "3.4"
+services:
+  api:
+    container_name: techk-api
+    image: techk-api:latest
+    build: ./techk/
+    command: python manage.py runserver 0.0.0.0:8000
+    volumes:
+      - ./techk:/code
+    ports:
+      - "8000:8000"
+    networks:
+      - techk
+  web:
+    container_name: techk-web
+    image: techk-web:latest
+    build: ./techk-vue/
+    command: yarn serve
+    volumes:
+      - ./techk-vue:/code
+    ports:
+      - "8080:8080"
+    networks:
+      - techk
+    depends_on:
+      - api
+
+networks:
+  techk:
+    driver: bridge
