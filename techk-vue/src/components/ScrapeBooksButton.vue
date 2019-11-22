@@ -47,6 +47,7 @@ export default {
             message += ` Updated: ${booksStats["updated"]},`;
             message += ` Deleted: ${booksStats["deleted"]})`;
             this.successMessage = message;
+            this.$store.dispatch("filterTable");
           } else {
             this.error = true;
             this.errorMessage = "Try again";
