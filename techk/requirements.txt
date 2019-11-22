@@ -19,3 +19,4 @@ flake8==3.5.0
 coverage==4.5.4
 tox==3.14.1
 requests-mock==1.7.0
+django-cors-headers==3.2.0

@@ -39,11 +39,13 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'rest_framework',
     'django_filters',
+    'corsheaders',
     'apps.base',
     'apps.scraper',
 ]
 
 MIDDLEWARE = [
+    'corsheaders.middleware.CorsMiddleware',
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
@@ -148,3 +150,6 @@ REST_FRAMEWORK = {
     'URL_FORMAT_OVERRIDE': None,
     'PAGE_SIZE': 20,
 }
+
+# CORSHEADERS CONFIGURATION
+CORS_ORIGIN_ALLOW_ALL = True
